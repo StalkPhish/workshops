@@ -1,5 +1,5 @@
 
-# Workshop phishing OSINT/OSS LeHack 2025
+# "Phishing detection and investigation with OSINT feeds and free softwares" - LeHack 2025
 
 Event URL: https://lehack.org/2025/tracks/workshops/#using-osint-to-detect-and-track-phishing-campaigns
 Short workshop presentation: https://github.com/StalkPhish/workshops/blob/main/leHack-2025/Stalkphish-LeHack-WorkShop-2025.pdf
